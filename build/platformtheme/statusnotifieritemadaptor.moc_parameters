@@ -1,0 +1,5 @@
+-I/home/tokyo/clone/cuteclone/qt-plugins/platformtheme
+-I/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme
+-o
+/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/statusnotifieritemadaptor.moc
+/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/statusnotifieritemadaptor.h
