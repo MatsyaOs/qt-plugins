@@ -4,14 +4,14 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/basestyle.cpp" "/home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle/CMakeFiles/matsyastyle.dir/basestyle.cpp.o"
-  "/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/blurhelper.cpp" "/home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle/CMakeFiles/matsyastyle.dir/blurhelper.cpp.o"
-  "/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/boxshadowrenderer.cpp" "/home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle/CMakeFiles/matsyastyle.dir/boxshadowrenderer.cpp.o"
-  "/home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle/matsyastyle_autogen/mocs_compilation.cpp" "/home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle/CMakeFiles/matsyastyle.dir/matsyastyle_autogen/mocs_compilation.cpp.o"
-  "/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/phantomcolor.cpp" "/home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle/CMakeFiles/matsyastyle.dir/phantomcolor.cpp.o"
-  "/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/pstyleplugin.cpp" "/home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle/CMakeFiles/matsyastyle.dir/pstyleplugin.cpp.o"
-  "/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/shadowhelper.cpp" "/home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle/CMakeFiles/matsyastyle.dir/shadowhelper.cpp.o"
-  "/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/tileset.cpp" "/home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle/CMakeFiles/matsyastyle.dir/tileset.cpp.o"
+  "/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/basestyle.cpp" "/home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle/CMakeFiles/matsyastyle.dir/basestyle.cpp.o"
+  "/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/blurhelper.cpp" "/home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle/CMakeFiles/matsyastyle.dir/blurhelper.cpp.o"
+  "/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/boxshadowrenderer.cpp" "/home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle/CMakeFiles/matsyastyle.dir/boxshadowrenderer.cpp.o"
+  "/home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle/matsyastyle_autogen/mocs_compilation.cpp" "/home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle/CMakeFiles/matsyastyle.dir/matsyastyle_autogen/mocs_compilation.cpp.o"
+  "/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/phantomcolor.cpp" "/home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle/CMakeFiles/matsyastyle.dir/phantomcolor.cpp.o"
+  "/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/pstyleplugin.cpp" "/home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle/CMakeFiles/matsyastyle.dir/pstyleplugin.cpp.o"
+  "/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/shadowhelper.cpp" "/home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle/CMakeFiles/matsyastyle.dir/shadowhelper.cpp.o"
+  "/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/tileset.cpp" "/home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle/CMakeFiles/matsyastyle.dir/tileset.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

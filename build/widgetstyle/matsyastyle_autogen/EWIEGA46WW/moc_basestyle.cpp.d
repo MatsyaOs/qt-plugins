@@ -1,5 +1,5 @@
-/home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle/matsyastyle_autogen/EWIEGA46WW/moc_basestyle.cpp: /home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/basestyle.h \
-  /home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle/matsyastyle_autogen/moc_predefs.h \
+/home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle/matsyastyle_autogen/EWIEGA46WW/moc_basestyle.cpp: /home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/basestyle.h \
+  /home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle/matsyastyle_autogen/moc_predefs.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/c++/10/algorithm \

@@ -67,10 +67,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/tokyo/clone/cuteclone/qt-plugins
+CMAKE_SOURCE_DIR = /home/tokyo/Documents/GitHub/qt-plugins
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/tokyo/clone/cuteclone/qt-plugins/build
+CMAKE_BINARY_DIR = /home/tokyo/Documents/GitHub/qt-plugins/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -145,14 +145,14 @@ install/local/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/tokyo/clone/cuteclone/qt-plugins/build/CMakeFiles /home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle//CMakeFiles/progress.marks
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 widgetstyle/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/tokyo/clone/cuteclone/qt-plugins/build/CMakeFiles 0
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/tokyo/Documents/GitHub/qt-plugins/build/CMakeFiles /home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle//CMakeFiles/progress.marks
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 widgetstyle/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/tokyo/Documents/GitHub/qt-plugins/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 widgetstyle/clean
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 widgetstyle/clean
 .PHONY : clean
 
 # The main clean target
@@ -162,22 +162,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 widgetstyle/preinstall
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 widgetstyle/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 widgetstyle/preinstall
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 widgetstyle/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 widgetstyle/CMakeFiles/matsyastyle.dir/rule:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 widgetstyle/CMakeFiles/matsyastyle.dir/rule
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 widgetstyle/CMakeFiles/matsyastyle.dir/rule
 .PHONY : widgetstyle/CMakeFiles/matsyastyle.dir/rule
 
 # Convenience name for target.
@@ -187,12 +187,12 @@ matsyastyle: widgetstyle/CMakeFiles/matsyastyle.dir/rule
 
 # fast build rule for target.
 matsyastyle/fast:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/build
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/build
 .PHONY : matsyastyle/fast
 
 # Convenience name for target.
 widgetstyle/CMakeFiles/matsyastyle_autogen.dir/rule:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 widgetstyle/CMakeFiles/matsyastyle_autogen.dir/rule
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 widgetstyle/CMakeFiles/matsyastyle_autogen.dir/rule
 .PHONY : widgetstyle/CMakeFiles/matsyastyle_autogen.dir/rule
 
 # Convenience name for target.
@@ -202,7 +202,7 @@ matsyastyle_autogen: widgetstyle/CMakeFiles/matsyastyle_autogen.dir/rule
 
 # fast build rule for target.
 matsyastyle_autogen/fast:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle_autogen.dir/build.make widgetstyle/CMakeFiles/matsyastyle_autogen.dir/build
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle_autogen.dir/build.make widgetstyle/CMakeFiles/matsyastyle_autogen.dir/build
 .PHONY : matsyastyle_autogen/fast
 
 basestyle.o: basestyle.cpp.o
@@ -211,7 +211,7 @@ basestyle.o: basestyle.cpp.o
 
 # target to build an object file
 basestyle.cpp.o:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/basestyle.cpp.o
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/basestyle.cpp.o
 .PHONY : basestyle.cpp.o
 
 basestyle.i: basestyle.cpp.i
@@ -220,7 +220,7 @@ basestyle.i: basestyle.cpp.i
 
 # target to preprocess a source file
 basestyle.cpp.i:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/basestyle.cpp.i
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/basestyle.cpp.i
 .PHONY : basestyle.cpp.i
 
 basestyle.s: basestyle.cpp.s
@@ -229,7 +229,7 @@ basestyle.s: basestyle.cpp.s
 
 # target to generate assembly for a file
 basestyle.cpp.s:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/basestyle.cpp.s
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/basestyle.cpp.s
 .PHONY : basestyle.cpp.s
 
 blurhelper.o: blurhelper.cpp.o
@@ -238,7 +238,7 @@ blurhelper.o: blurhelper.cpp.o
 
 # target to build an object file
 blurhelper.cpp.o:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/blurhelper.cpp.o
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/blurhelper.cpp.o
 .PHONY : blurhelper.cpp.o
 
 blurhelper.i: blurhelper.cpp.i
@@ -247,7 +247,7 @@ blurhelper.i: blurhelper.cpp.i
 
 # target to preprocess a source file
 blurhelper.cpp.i:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/blurhelper.cpp.i
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/blurhelper.cpp.i
 .PHONY : blurhelper.cpp.i
 
 blurhelper.s: blurhelper.cpp.s
@@ -256,7 +256,7 @@ blurhelper.s: blurhelper.cpp.s
 
 # target to generate assembly for a file
 blurhelper.cpp.s:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/blurhelper.cpp.s
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/blurhelper.cpp.s
 .PHONY : blurhelper.cpp.s
 
 boxshadowrenderer.o: boxshadowrenderer.cpp.o
@@ -265,7 +265,7 @@ boxshadowrenderer.o: boxshadowrenderer.cpp.o
 
 # target to build an object file
 boxshadowrenderer.cpp.o:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/boxshadowrenderer.cpp.o
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/boxshadowrenderer.cpp.o
 .PHONY : boxshadowrenderer.cpp.o
 
 boxshadowrenderer.i: boxshadowrenderer.cpp.i
@@ -274,7 +274,7 @@ boxshadowrenderer.i: boxshadowrenderer.cpp.i
 
 # target to preprocess a source file
 boxshadowrenderer.cpp.i:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/boxshadowrenderer.cpp.i
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/boxshadowrenderer.cpp.i
 .PHONY : boxshadowrenderer.cpp.i
 
 boxshadowrenderer.s: boxshadowrenderer.cpp.s
@@ -283,7 +283,7 @@ boxshadowrenderer.s: boxshadowrenderer.cpp.s
 
 # target to generate assembly for a file
 boxshadowrenderer.cpp.s:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/boxshadowrenderer.cpp.s
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/boxshadowrenderer.cpp.s
 .PHONY : boxshadowrenderer.cpp.s
 
 matsyastyle_autogen/mocs_compilation.o: matsyastyle_autogen/mocs_compilation.cpp.o
@@ -292,7 +292,7 @@ matsyastyle_autogen/mocs_compilation.o: matsyastyle_autogen/mocs_compilation.cpp
 
 # target to build an object file
 matsyastyle_autogen/mocs_compilation.cpp.o:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/matsyastyle_autogen/mocs_compilation.cpp.o
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/matsyastyle_autogen/mocs_compilation.cpp.o
 .PHONY : matsyastyle_autogen/mocs_compilation.cpp.o
 
 matsyastyle_autogen/mocs_compilation.i: matsyastyle_autogen/mocs_compilation.cpp.i
@@ -301,7 +301,7 @@ matsyastyle_autogen/mocs_compilation.i: matsyastyle_autogen/mocs_compilation.cpp
 
 # target to preprocess a source file
 matsyastyle_autogen/mocs_compilation.cpp.i:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/matsyastyle_autogen/mocs_compilation.cpp.i
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/matsyastyle_autogen/mocs_compilation.cpp.i
 .PHONY : matsyastyle_autogen/mocs_compilation.cpp.i
 
 matsyastyle_autogen/mocs_compilation.s: matsyastyle_autogen/mocs_compilation.cpp.s
@@ -310,7 +310,7 @@ matsyastyle_autogen/mocs_compilation.s: matsyastyle_autogen/mocs_compilation.cpp
 
 # target to generate assembly for a file
 matsyastyle_autogen/mocs_compilation.cpp.s:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/matsyastyle_autogen/mocs_compilation.cpp.s
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/matsyastyle_autogen/mocs_compilation.cpp.s
 .PHONY : matsyastyle_autogen/mocs_compilation.cpp.s
 
 phantomcolor.o: phantomcolor.cpp.o
@@ -319,7 +319,7 @@ phantomcolor.o: phantomcolor.cpp.o
 
 # target to build an object file
 phantomcolor.cpp.o:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/phantomcolor.cpp.o
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/phantomcolor.cpp.o
 .PHONY : phantomcolor.cpp.o
 
 phantomcolor.i: phantomcolor.cpp.i
@@ -328,7 +328,7 @@ phantomcolor.i: phantomcolor.cpp.i
 
 # target to preprocess a source file
 phantomcolor.cpp.i:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/phantomcolor.cpp.i
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/phantomcolor.cpp.i
 .PHONY : phantomcolor.cpp.i
 
 phantomcolor.s: phantomcolor.cpp.s
@@ -337,7 +337,7 @@ phantomcolor.s: phantomcolor.cpp.s
 
 # target to generate assembly for a file
 phantomcolor.cpp.s:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/phantomcolor.cpp.s
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/phantomcolor.cpp.s
 .PHONY : phantomcolor.cpp.s
 
 pstyleplugin.o: pstyleplugin.cpp.o
@@ -346,7 +346,7 @@ pstyleplugin.o: pstyleplugin.cpp.o
 
 # target to build an object file
 pstyleplugin.cpp.o:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/pstyleplugin.cpp.o
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/pstyleplugin.cpp.o
 .PHONY : pstyleplugin.cpp.o
 
 pstyleplugin.i: pstyleplugin.cpp.i
@@ -355,7 +355,7 @@ pstyleplugin.i: pstyleplugin.cpp.i
 
 # target to preprocess a source file
 pstyleplugin.cpp.i:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/pstyleplugin.cpp.i
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/pstyleplugin.cpp.i
 .PHONY : pstyleplugin.cpp.i
 
 pstyleplugin.s: pstyleplugin.cpp.s
@@ -364,7 +364,7 @@ pstyleplugin.s: pstyleplugin.cpp.s
 
 # target to generate assembly for a file
 pstyleplugin.cpp.s:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/pstyleplugin.cpp.s
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/pstyleplugin.cpp.s
 .PHONY : pstyleplugin.cpp.s
 
 shadowhelper.o: shadowhelper.cpp.o
@@ -373,7 +373,7 @@ shadowhelper.o: shadowhelper.cpp.o
 
 # target to build an object file
 shadowhelper.cpp.o:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/shadowhelper.cpp.o
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/shadowhelper.cpp.o
 .PHONY : shadowhelper.cpp.o
 
 shadowhelper.i: shadowhelper.cpp.i
@@ -382,7 +382,7 @@ shadowhelper.i: shadowhelper.cpp.i
 
 # target to preprocess a source file
 shadowhelper.cpp.i:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/shadowhelper.cpp.i
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/shadowhelper.cpp.i
 .PHONY : shadowhelper.cpp.i
 
 shadowhelper.s: shadowhelper.cpp.s
@@ -391,7 +391,7 @@ shadowhelper.s: shadowhelper.cpp.s
 
 # target to generate assembly for a file
 shadowhelper.cpp.s:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/shadowhelper.cpp.s
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/shadowhelper.cpp.s
 .PHONY : shadowhelper.cpp.s
 
 tileset.o: tileset.cpp.o
@@ -400,7 +400,7 @@ tileset.o: tileset.cpp.o
 
 # target to build an object file
 tileset.cpp.o:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/tileset.cpp.o
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/tileset.cpp.o
 .PHONY : tileset.cpp.o
 
 tileset.i: tileset.cpp.i
@@ -409,7 +409,7 @@ tileset.i: tileset.cpp.i
 
 # target to preprocess a source file
 tileset.cpp.i:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/tileset.cpp.i
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/tileset.cpp.i
 .PHONY : tileset.cpp.i
 
 tileset.s: tileset.cpp.s
@@ -418,7 +418,7 @@ tileset.s: tileset.cpp.s
 
 # target to generate assembly for a file
 tileset.cpp.s:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/tileset.cpp.s
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f widgetstyle/CMakeFiles/matsyastyle.dir/build.make widgetstyle/CMakeFiles/matsyastyle.dir/tileset.cpp.s
 .PHONY : tileset.cpp.s
 
 # Help Target
@@ -470,6 +470,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

@@ -1,5 +1,5 @@
-/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/EWIEGA46WW/moc_hintsettings.cpp: /home/tokyo/clone/cuteclone/qt-plugins/platformtheme/hintsettings.h \
-  /home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/moc_predefs.h \
+/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/EWIEGA46WW/moc_hintsettings.cpp: /home/tokyo/Documents/GitHub/qt-plugins/platformtheme/hintsettings.h \
+  /home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/moc_predefs.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/c++/10/algorithm \

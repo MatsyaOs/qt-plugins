@@ -1,4 +1,4 @@
-# Install script for directory: /home/tokyo/clone/cuteclone/qt-plugins
+# Install script for directory: /home/tokyo/Documents/GitHub/qt-plugins
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,8 +44,8 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/cmake_install.cmake")
-  include("/home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle/cmake_install.cmake")
+  include("/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/cmake_install.cmake")
+  include("/home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle/cmake_install.cmake")
 
 endif()
 
@@ -57,5 +57,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/tokyo/clone/cuteclone/qt-plugins/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/tokyo/Documents/GitHub/qt-plugins/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

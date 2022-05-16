@@ -1,4 +1,4 @@
-# Install script for directory: /home/tokyo/clone/cuteclone/qt-plugins/platformtheme
+# Install script for directory: /home/tokyo/Documents/GitHub/qt-plugins/platformtheme
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -57,7 +57,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/usr/lib/x86_64-linux-gnu/qt5/plugins/platformthemes" TYPE MODULE FILES "/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/libmatsyaplatformtheme.so")
+file(INSTALL DESTINATION "/usr/lib/x86_64-linux-gnu/qt5/plugins/platformthemes" TYPE MODULE FILES "/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/libmatsyaplatformtheme.so")
   if(EXISTS "$ENV{DESTDIR}/usr/lib/x86_64-linux-gnu/qt5/plugins/platformthemes/libmatsyaplatformtheme.so" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}/usr/lib/x86_64-linux-gnu/qt5/plugins/platformthemes/libmatsyaplatformtheme.so")
     if(CMAKE_INSTALL_DO_STRIP)

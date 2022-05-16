@@ -62,10 +62,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/tokyo/clone/cuteclone/qt-plugins
+CMAKE_SOURCE_DIR = /home/tokyo/Documents/GitHub/qt-plugins
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/tokyo/clone/cuteclone/qt-plugins/build
+CMAKE_BINARY_DIR = /home/tokyo/Documents/GitHub/qt-plugins/build
 
 # Utility rule file for KF5WindowSystem_QCH.
 
@@ -82,10 +82,10 @@ platformtheme/CMakeFiles/KF5WindowSystem_QCH.dir/build: KF5WindowSystem_QCH
 .PHONY : platformtheme/CMakeFiles/KF5WindowSystem_QCH.dir/build
 
 platformtheme/CMakeFiles/KF5WindowSystem_QCH.dir/clean:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme && $(CMAKE_COMMAND) -P CMakeFiles/KF5WindowSystem_QCH.dir/cmake_clean.cmake
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme && $(CMAKE_COMMAND) -P CMakeFiles/KF5WindowSystem_QCH.dir/cmake_clean.cmake
 .PHONY : platformtheme/CMakeFiles/KF5WindowSystem_QCH.dir/clean
 
 platformtheme/CMakeFiles/KF5WindowSystem_QCH.dir/depend:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/tokyo/clone/cuteclone/qt-plugins /home/tokyo/clone/cuteclone/qt-plugins/platformtheme /home/tokyo/clone/cuteclone/qt-plugins/build /home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme /home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/CMakeFiles/KF5WindowSystem_QCH.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/tokyo/Documents/GitHub/qt-plugins /home/tokyo/Documents/GitHub/qt-plugins/platformtheme /home/tokyo/Documents/GitHub/qt-plugins/build /home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme /home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/CMakeFiles/KF5WindowSystem_QCH.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : platformtheme/CMakeFiles/KF5WindowSystem_QCH.dir/depend
 

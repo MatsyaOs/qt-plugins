@@ -62,10 +62,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/tokyo/clone/cuteclone/qt-plugins
+CMAKE_SOURCE_DIR = /home/tokyo/Documents/GitHub/qt-plugins
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/tokyo/clone/cuteclone/qt-plugins/build
+CMAKE_BINARY_DIR = /home/tokyo/Documents/GitHub/qt-plugins/build
 
 # Utility rule file for matsyastyle_autogen.
 
@@ -73,8 +73,8 @@ CMAKE_BINARY_DIR = /home/tokyo/clone/cuteclone/qt-plugins/build
 include widgetstyle/CMakeFiles/matsyastyle_autogen.dir/progress.make
 
 widgetstyle/CMakeFiles/matsyastyle_autogen:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/tokyo/clone/cuteclone/qt-plugins/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target matsyastyle"
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle && /usr/bin/cmake -E cmake_autogen /home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle/CMakeFiles/matsyastyle_autogen.dir/AutogenInfo.json ""
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/tokyo/Documents/GitHub/qt-plugins/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target matsyastyle"
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle && /usr/bin/cmake -E cmake_autogen /home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle/CMakeFiles/matsyastyle_autogen.dir/AutogenInfo.json ""
 
 matsyastyle_autogen: widgetstyle/CMakeFiles/matsyastyle_autogen
 matsyastyle_autogen: widgetstyle/CMakeFiles/matsyastyle_autogen.dir/build.make
@@ -87,10 +87,10 @@ widgetstyle/CMakeFiles/matsyastyle_autogen.dir/build: matsyastyle_autogen
 .PHONY : widgetstyle/CMakeFiles/matsyastyle_autogen.dir/build
 
 widgetstyle/CMakeFiles/matsyastyle_autogen.dir/clean:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle && $(CMAKE_COMMAND) -P CMakeFiles/matsyastyle_autogen.dir/cmake_clean.cmake
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle && $(CMAKE_COMMAND) -P CMakeFiles/matsyastyle_autogen.dir/cmake_clean.cmake
 .PHONY : widgetstyle/CMakeFiles/matsyastyle_autogen.dir/clean
 
 widgetstyle/CMakeFiles/matsyastyle_autogen.dir/depend:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/tokyo/clone/cuteclone/qt-plugins /home/tokyo/clone/cuteclone/qt-plugins/widgetstyle /home/tokyo/clone/cuteclone/qt-plugins/build /home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle /home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle/CMakeFiles/matsyastyle_autogen.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/tokyo/Documents/GitHub/qt-plugins /home/tokyo/Documents/GitHub/qt-plugins/widgetstyle /home/tokyo/Documents/GitHub/qt-plugins/build /home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle /home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle/CMakeFiles/matsyastyle_autogen.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : widgetstyle/CMakeFiles/matsyastyle_autogen.dir/depend
 

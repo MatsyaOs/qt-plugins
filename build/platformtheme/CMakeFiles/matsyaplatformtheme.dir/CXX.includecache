@@ -22,83 +22,83 @@ QDBusConnection
 dbustypes.h
 ../platformtheme/statusnotifier/dbustypes.h
 
-/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/EWIEGA46WW/moc_hintsettings.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/EWIEGA46WW/moc_hintsettings.cpp
 memory
 -
 ../../../../platformtheme/hintsettings.h
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/hintsettings.h
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/hintsettings.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/EWIEGA46WW/moc_platformtheme.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/EWIEGA46WW/moc_platformtheme.cpp
 memory
 -
 ../../../../platformtheme/platformtheme.h
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/platformtheme.h
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/platformtheme.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/EWIEGA46WW/moc_qdbusmenubar_p.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/EWIEGA46WW/moc_qdbusmenubar_p.cpp
 memory
 -
 ../../../../platformtheme/qdbusmenubar_p.h
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/qdbusmenubar_p.h
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/qdbusmenubar_p.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/EWIEGA46WW/moc_systemtrayicon.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/EWIEGA46WW/moc_systemtrayicon.cpp
 memory
 -
 ../../../../platformtheme/systemtrayicon.h
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/systemtrayicon.h
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/systemtrayicon.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/EWIEGA46WW/moc_x11integration.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/EWIEGA46WW/moc_x11integration.cpp
 memory
 -
 ../../../../platformtheme/x11integration.h
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/x11integration.h
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/x11integration.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/XN7BYZFWCJ/moc_statusnotifieritem.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/XN7BYZFWCJ/moc_statusnotifieritem.cpp
 memory
 -
 ../../../../platformtheme/statusnotifier/statusnotifieritem.h
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/statusnotifier/statusnotifieritem.h
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/statusnotifier/statusnotifieritem.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/mocs_compilation.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/mocs_compilation.cpp
 EWIEGA46WW/moc_hintsettings.cpp
-/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/EWIEGA46WW/moc_hintsettings.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/EWIEGA46WW/moc_hintsettings.cpp
 EWIEGA46WW/moc_platformtheme.cpp
-/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/EWIEGA46WW/moc_platformtheme.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/EWIEGA46WW/moc_platformtheme.cpp
 EWIEGA46WW/moc_qdbusmenubar_p.cpp
-/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/EWIEGA46WW/moc_qdbusmenubar_p.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/EWIEGA46WW/moc_qdbusmenubar_p.cpp
 XN7BYZFWCJ/moc_statusnotifieritem.cpp
-/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/XN7BYZFWCJ/moc_statusnotifieritem.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/XN7BYZFWCJ/moc_statusnotifieritem.cpp
 EWIEGA46WW/moc_systemtrayicon.cpp
-/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/EWIEGA46WW/moc_systemtrayicon.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/EWIEGA46WW/moc_systemtrayicon.cpp
 EWIEGA46WW/moc_x11integration.cpp
-/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/EWIEGA46WW/moc_x11integration.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/EWIEGA46WW/moc_x11integration.cpp
 
-/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/statusnotifieritemadaptor.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/statusnotifieritemadaptor.cpp
 statusnotifieritemadaptor.h
-/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/statusnotifieritemadaptor.h
+/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/statusnotifieritemadaptor.h
 QtCore/QMetaObject
 -
 QtCore/QByteArray
@@ -114,33 +114,33 @@ QtCore/QStringList
 QtCore/QVariant
 -
 statusnotifieritemadaptor.moc
-/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/statusnotifieritemadaptor.moc
+/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/statusnotifieritemadaptor.moc
 
-/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/statusnotifieritemadaptor.h
+/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/statusnotifieritemadaptor.h
 QtCore/QObject
 -
 QtDBus/QtDBus
 -
 statusnotifier/statusnotifieritem.h
-/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/statusnotifier/statusnotifieritem.h
+/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/statusnotifier/statusnotifieritem.h
 
-/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/statusnotifieritemadaptor.moc
+/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/statusnotifieritemadaptor.moc
 memory
 -
 statusnotifieritemadaptor.h
-/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/statusnotifieritemadaptor.h
+/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/statusnotifieritemadaptor.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/statusnotifierwatcher_interface.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/statusnotifierwatcher_interface.cpp
 statusnotifierwatcher_interface.h
-/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/statusnotifierwatcher_interface.h
+/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/statusnotifierwatcher_interface.h
 statusnotifierwatcher_interface.moc
-/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/statusnotifierwatcher_interface.moc
+/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/statusnotifierwatcher_interface.moc
 
-/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/statusnotifierwatcher_interface.h
+/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/statusnotifierwatcher_interface.h
 QtCore/QObject
 -
 QtCore/QByteArray
@@ -158,19 +158,19 @@ QtCore/QVariant
 QtDBus/QtDBus
 -
 
-/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/statusnotifierwatcher_interface.moc
+/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/statusnotifierwatcher_interface.moc
 memory
 -
 statusnotifierwatcher_interface.h
-/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/statusnotifierwatcher_interface.h
+/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/statusnotifierwatcher_interface.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/hintsettings.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/hintsettings.cpp
 hintsettings.h
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/hintsettings.h
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/hintsettings.h
 QDebug
 -
 QDir
@@ -208,7 +208,7 @@ QDBusConnection
 QDBusInterface
 -
 
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/hintsettings.h
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/hintsettings.h
 QDBusVariant
 -
 QFileSystemWatcher
@@ -222,23 +222,23 @@ QSettings
 qpa/qplatformtheme.h
 -
 
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/main.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/main.cpp
 qpa/qplatformthemeplugin.h
 -
 platformtheme.h
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/platformtheme.h
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/platformtheme.h
 private/xdgiconloader/xdgiconloader_p.h
 -
 main.moc
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/main.moc
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/main.moc
 
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/platformtheme.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/platformtheme.cpp
 platformtheme.h
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/platformtheme.h
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/platformtheme.h
 x11integration.h
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/x11integration.h
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/x11integration.h
 qdbusmenubar_p.h
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/qdbusmenubar_p.h
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/qdbusmenubar_p.h
 QApplication
 -
 QFont
@@ -272,23 +272,23 @@ QDBusInterface
 KWindowSystem
 -
 
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/platformtheme.h
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/platformtheme.h
 qpa/qplatformtheme.h
 -
 hintsettings.h
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/hintsettings.h
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/hintsettings.h
 systemtrayicon.h
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/systemtrayicon.h
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/systemtrayicon.h
 QHash
 -
 QKeySequence
 -
 
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/qdbusmenubar.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/qdbusmenubar.cpp
 qdbusmenubar_p.h
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/qdbusmenubar_p.h
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/qdbusmenubar_p.h
 
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/qdbusmenubar_p.h
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/qdbusmenubar_p.h
 QHash
 -
 QString
@@ -304,19 +304,19 @@ QtThemeSupport/private/qdbusmenuconnection_p.h
 QtThemeSupport/private/qdbusmenuregistrarproxy_p.h
 -
 
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/statusnotifier/dbustypes.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/statusnotifier/dbustypes.cpp
 dbustypes.h
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/statusnotifier/dbustypes.h
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/statusnotifier/dbustypes.h
 
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/statusnotifier/dbustypes.h
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/statusnotifier/dbustypes.h
 QDBusArgument
 -
 
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/statusnotifier/statusnotifieritem.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/statusnotifier/statusnotifieritem.cpp
 statusnotifieritem.h
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/statusnotifier/statusnotifieritem.h
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/statusnotifier/statusnotifieritem.h
 statusnotifieritemadaptor.h
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/statusnotifier/statusnotifieritemadaptor.h
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/statusnotifier/statusnotifieritemadaptor.h
 QDBusInterface
 -
 QDBusServiceWatcher
@@ -324,7 +324,7 @@ QDBusServiceWatcher
 dbusmenuexporter.h
 -
 
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/statusnotifier/statusnotifieritem.h
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/statusnotifier/statusnotifieritem.h
 QObject
 -
 QIcon
@@ -334,11 +334,11 @@ QMenu
 QDBusConnection
 -
 dbustypes.h
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/statusnotifier/dbustypes.h
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/statusnotifier/dbustypes.h
 
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/systemtrayicon.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/systemtrayicon.cpp
 systemtrayicon.h
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/systemtrayicon.h
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/systemtrayicon.h
 QAction
 -
 QIcon
@@ -354,17 +354,17 @@ QDBusMetaType
 QDBusInterface
 -
 
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/systemtrayicon.h
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/systemtrayicon.h
 qpa/qplatformmenu.h
 -
 qpa/qplatformsystemtrayicon.h
 -
 statusnotifier/statusnotifieritem.h
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/statusnotifier/statusnotifieritem.h
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/statusnotifier/statusnotifieritem.h
 
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/x11integration.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/x11integration.cpp
 x11integration.h
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/x11integration.h
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/x11integration.h
 QCoreApplication
 -
 QX11Info
@@ -390,7 +390,7 @@ KWindowEffects
 xcb/xcb.h
 -
 
-/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/x11integration.h
+/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/x11integration.h
 QObject
 -
 QHash

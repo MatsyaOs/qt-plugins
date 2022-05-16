@@ -1,12 +1,12 @@
 {
-	"BUILD_DIR" : "/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen",
-	"CMAKE_BINARY_DIR" : "/home/tokyo/clone/cuteclone/qt-plugins/build",
-	"CMAKE_CURRENT_BINARY_DIR" : "/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme",
-	"CMAKE_CURRENT_SOURCE_DIR" : "/home/tokyo/clone/cuteclone/qt-plugins/platformtheme",
+	"BUILD_DIR" : "/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen",
+	"CMAKE_BINARY_DIR" : "/home/tokyo/Documents/GitHub/qt-plugins/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/tokyo/Documents/GitHub/qt-plugins/platformtheme",
 	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
 	"CMAKE_LIST_FILES" : 
 	[
-		"/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/CMakeLists.txt",
+		"/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/CMakeLists.txt",
 		"/usr/share/cmake-3.18/Modules/GNUInstallDirs.cmake",
 		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
 		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfig.cmake",
@@ -104,7 +104,7 @@
 		"/usr/lib/x86_64-linux-gnu/cmake/KF5WindowSystem/KF5WindowSystemTargets.cmake",
 		"/usr/lib/x86_64-linux-gnu/cmake/KF5WindowSystem/KF5WindowSystemTargets-debian.cmake",
 		"/usr/lib/x86_64-linux-gnu/cmake/KF5WindowSystem/KF5WindowSystemQchTargets.cmake",
-		"/home/tokyo/clone/cuteclone/qt-plugins/cmake/FindQt5ThemeSupport.cmake",
+		"/home/tokyo/Documents/GitHub/qt-plugins/cmake/FindQt5ThemeSupport.cmake",
 		"/usr/share/cmake-3.18/Modules/FindPkgConfig.cmake",
 		"/usr/share/cmake-3.18/Modules/FindPackageHandleStandardArgs.cmake",
 		"/usr/share/cmake-3.18/Modules/FindPackageMessage.cmake",
@@ -112,50 +112,50 @@
 		"/usr/share/cmake-3.18/Modules/FindPackageMessage.cmake",
 		"/usr/share/cmake-3.18/Modules/FeatureSummary.cmake"
 	],
-	"CMAKE_SOURCE_DIR" : "/home/tokyo/clone/cuteclone/qt-plugins",
+	"CMAKE_SOURCE_DIR" : "/home/tokyo/Documents/GitHub/qt-plugins",
 	"DEP_FILE" : "",
 	"DEP_FILE_RULE_NAME" : "",
 	"HEADERS" : 
 	[
 		[
-			"/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/hintsettings.h",
+			"/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/hintsettings.h",
 			"Mu",
 			"EWIEGA46WW/moc_hintsettings.cpp"
 		],
 		[
-			"/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/platformtheme.h",
+			"/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/platformtheme.h",
 			"Mu",
 			"EWIEGA46WW/moc_platformtheme.cpp"
 		],
 		[
-			"/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/qdbusmenubar_p.h",
+			"/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/qdbusmenubar_p.h",
 			"Mu",
 			"EWIEGA46WW/moc_qdbusmenubar_p.cpp"
 		],
 		[
-			"/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/statusnotifier/dbustypes.h",
+			"/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/statusnotifier/dbustypes.h",
 			"Mu",
 			"XN7BYZFWCJ/moc_dbustypes.cpp"
 		],
 		[
-			"/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/statusnotifier/statusnotifieritem.h",
+			"/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/statusnotifier/statusnotifieritem.h",
 			"Mu",
 			"XN7BYZFWCJ/moc_statusnotifieritem.cpp"
 		],
 		[
-			"/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/systemtrayicon.h",
+			"/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/systemtrayicon.h",
 			"Mu",
 			"EWIEGA46WW/moc_systemtrayicon.cpp"
 		],
 		[
-			"/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/x11integration.h",
+			"/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/x11integration.h",
 			"Mu",
 			"EWIEGA46WW/moc_x11integration.cpp"
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/include",
-	"MOC_COMPILATION_FILE" : "/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : 
 	[
 		"LIB_FM_QT_SONAME=\"\"",
@@ -183,8 +183,8 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme",
-		"/home/tokyo/clone/cuteclone/qt-plugins/platformtheme",
+		"/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme",
+		"/home/tokyo/Documents/GitHub/qt-plugins/platformtheme",
 		"/usr/include/x86_64-linux-gnu/qt5/QtGui/5.15.2",
 		"/usr/include/x86_64-linux-gnu/qt5/QtGui/5.15.2/QtGui",
 		"/usr/include/x86_64-linux-gnu/qt5",
@@ -227,46 +227,49 @@
 		"-c",
 		"/usr/share/cmake-3.18/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 2,
-	"PARSE_CACHE_FILE" : "/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/CMakeFiles/matsyaplatformtheme_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/CMakeFiles/matsyaplatformtheme_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
 	"QT_UIC_EXECUTABLE" : "",
 	"QT_VERSION_MAJOR" : 5,
 	"QT_VERSION_MINOR" : 15,
-	"SETTINGS_FILE" : "/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/CMakeFiles/matsyaplatformtheme_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/CMakeFiles/matsyaplatformtheme_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
 		[
-			"/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/hintsettings.cpp",
-			"Mu"
-		],
-		[ "/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/main.cpp", "Mu" ],
-		[
-			"/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/platformtheme.cpp",
+			"/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/hintsettings.cpp",
 			"Mu"
 		],
 		[
-			"/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/qdbusmenubar.cpp",
+			"/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/main.cpp",
 			"Mu"
 		],
 		[
-			"/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/statusnotifier/dbustypes.cpp",
+			"/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/platformtheme.cpp",
 			"Mu"
 		],
 		[
-			"/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/statusnotifier/statusnotifieritem.cpp",
+			"/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/qdbusmenubar.cpp",
 			"Mu"
 		],
 		[
-			"/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/systemtrayicon.cpp",
+			"/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/statusnotifier/dbustypes.cpp",
 			"Mu"
 		],
 		[
-			"/home/tokyo/clone/cuteclone/qt-plugins/platformtheme/x11integration.cpp",
+			"/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/statusnotifier/statusnotifieritem.cpp",
+			"Mu"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/systemtrayicon.cpp",
+			"Mu"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/qt-plugins/platformtheme/x11integration.cpp",
 			"Mu"
 		]
 	],

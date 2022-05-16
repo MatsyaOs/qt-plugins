@@ -1,4 +1,4 @@
-# Install script for directory: /home/tokyo/clone/cuteclone/qt-plugins/widgetstyle
+# Install script for directory: /home/tokyo/Documents/GitHub/qt-plugins/widgetstyle
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -57,7 +57,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/usr/lib/x86_64-linux-gnu/qt5/plugins/styles" TYPE MODULE FILES "/home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle/libmatsyastyle.so")
+file(INSTALL DESTINATION "/usr/lib/x86_64-linux-gnu/qt5/plugins/styles" TYPE MODULE FILES "/home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle/libmatsyastyle.so")
   if(EXISTS "$ENV{DESTDIR}/usr/lib/x86_64-linux-gnu/qt5/plugins/styles/libmatsyastyle.so" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}/usr/lib/x86_64-linux-gnu/qt5/plugins/styles/libmatsyastyle.so")
     if(CMAKE_INSTALL_DO_STRIP)

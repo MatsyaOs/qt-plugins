@@ -62,10 +62,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/tokyo/clone/cuteclone/qt-plugins
+CMAKE_SOURCE_DIR = /home/tokyo/Documents/GitHub/qt-plugins
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/tokyo/clone/cuteclone/qt-plugins/build
+CMAKE_BINARY_DIR = /home/tokyo/Documents/GitHub/qt-plugins/build
 
 # Utility rule file for matsyaplatformtheme_autogen.
 
@@ -73,8 +73,8 @@ CMAKE_BINARY_DIR = /home/tokyo/clone/cuteclone/qt-plugins/build
 include platformtheme/CMakeFiles/matsyaplatformtheme_autogen.dir/progress.make
 
 platformtheme/CMakeFiles/matsyaplatformtheme_autogen:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/tokyo/clone/cuteclone/qt-plugins/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target matsyaplatformtheme"
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme && /usr/bin/cmake -E cmake_autogen /home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/CMakeFiles/matsyaplatformtheme_autogen.dir/AutogenInfo.json ""
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/tokyo/Documents/GitHub/qt-plugins/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target matsyaplatformtheme"
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme && /usr/bin/cmake -E cmake_autogen /home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/CMakeFiles/matsyaplatformtheme_autogen.dir/AutogenInfo.json ""
 
 matsyaplatformtheme_autogen: platformtheme/CMakeFiles/matsyaplatformtheme_autogen
 matsyaplatformtheme_autogen: platformtheme/CMakeFiles/matsyaplatformtheme_autogen.dir/build.make
@@ -87,10 +87,10 @@ platformtheme/CMakeFiles/matsyaplatformtheme_autogen.dir/build: matsyaplatformth
 .PHONY : platformtheme/CMakeFiles/matsyaplatformtheme_autogen.dir/build
 
 platformtheme/CMakeFiles/matsyaplatformtheme_autogen.dir/clean:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme && $(CMAKE_COMMAND) -P CMakeFiles/matsyaplatformtheme_autogen.dir/cmake_clean.cmake
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme && $(CMAKE_COMMAND) -P CMakeFiles/matsyaplatformtheme_autogen.dir/cmake_clean.cmake
 .PHONY : platformtheme/CMakeFiles/matsyaplatformtheme_autogen.dir/clean
 
 platformtheme/CMakeFiles/matsyaplatformtheme_autogen.dir/depend:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/tokyo/clone/cuteclone/qt-plugins /home/tokyo/clone/cuteclone/qt-plugins/platformtheme /home/tokyo/clone/cuteclone/qt-plugins/build /home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme /home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/CMakeFiles/matsyaplatformtheme_autogen.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/tokyo/Documents/GitHub/qt-plugins /home/tokyo/Documents/GitHub/qt-plugins/platformtheme /home/tokyo/Documents/GitHub/qt-plugins/build /home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme /home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/CMakeFiles/matsyaplatformtheme_autogen.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : platformtheme/CMakeFiles/matsyaplatformtheme_autogen.dir/depend
 

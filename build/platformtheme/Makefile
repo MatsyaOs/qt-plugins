@@ -67,10 +67,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/tokyo/clone/cuteclone/qt-plugins
+CMAKE_SOURCE_DIR = /home/tokyo/Documents/GitHub/qt-plugins
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/tokyo/clone/cuteclone/qt-plugins/build
+CMAKE_BINARY_DIR = /home/tokyo/Documents/GitHub/qt-plugins/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -145,14 +145,14 @@ install/strip/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/tokyo/clone/cuteclone/qt-plugins/build/CMakeFiles /home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme//CMakeFiles/progress.marks
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 platformtheme/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/tokyo/clone/cuteclone/qt-plugins/build/CMakeFiles 0
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/tokyo/Documents/GitHub/qt-plugins/build/CMakeFiles /home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme//CMakeFiles/progress.marks
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 platformtheme/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/tokyo/Documents/GitHub/qt-plugins/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 platformtheme/clean
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 platformtheme/clean
 .PHONY : clean
 
 # The main clean target
@@ -162,22 +162,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 platformtheme/preinstall
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 platformtheme/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 platformtheme/preinstall
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 platformtheme/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 platformtheme/CMakeFiles/matsyaplatformtheme.dir/rule:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 platformtheme/CMakeFiles/matsyaplatformtheme.dir/rule
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 platformtheme/CMakeFiles/matsyaplatformtheme.dir/rule
 .PHONY : platformtheme/CMakeFiles/matsyaplatformtheme.dir/rule
 
 # Convenience name for target.
@@ -187,12 +187,12 @@ matsyaplatformtheme: platformtheme/CMakeFiles/matsyaplatformtheme.dir/rule
 
 # fast build rule for target.
 matsyaplatformtheme/fast:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/build
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/build
 .PHONY : matsyaplatformtheme/fast
 
 # Convenience name for target.
 platformtheme/CMakeFiles/KF5WindowSystem_QCH.dir/rule:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 platformtheme/CMakeFiles/KF5WindowSystem_QCH.dir/rule
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 platformtheme/CMakeFiles/KF5WindowSystem_QCH.dir/rule
 .PHONY : platformtheme/CMakeFiles/KF5WindowSystem_QCH.dir/rule
 
 # Convenience name for target.
@@ -202,12 +202,12 @@ KF5WindowSystem_QCH: platformtheme/CMakeFiles/KF5WindowSystem_QCH.dir/rule
 
 # fast build rule for target.
 KF5WindowSystem_QCH/fast:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/KF5WindowSystem_QCH.dir/build.make platformtheme/CMakeFiles/KF5WindowSystem_QCH.dir/build
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/KF5WindowSystem_QCH.dir/build.make platformtheme/CMakeFiles/KF5WindowSystem_QCH.dir/build
 .PHONY : KF5WindowSystem_QCH/fast
 
 # Convenience name for target.
 platformtheme/CMakeFiles/matsyaplatformtheme_autogen.dir/rule:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 platformtheme/CMakeFiles/matsyaplatformtheme_autogen.dir/rule
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 platformtheme/CMakeFiles/matsyaplatformtheme_autogen.dir/rule
 .PHONY : platformtheme/CMakeFiles/matsyaplatformtheme_autogen.dir/rule
 
 # Convenience name for target.
@@ -217,7 +217,7 @@ matsyaplatformtheme_autogen: platformtheme/CMakeFiles/matsyaplatformtheme_autoge
 
 # fast build rule for target.
 matsyaplatformtheme_autogen/fast:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme_autogen.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme_autogen.dir/build
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme_autogen.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme_autogen.dir/build
 .PHONY : matsyaplatformtheme_autogen/fast
 
 hintsettings.o: hintsettings.cpp.o
@@ -226,7 +226,7 @@ hintsettings.o: hintsettings.cpp.o
 
 # target to build an object file
 hintsettings.cpp.o:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/hintsettings.cpp.o
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/hintsettings.cpp.o
 .PHONY : hintsettings.cpp.o
 
 hintsettings.i: hintsettings.cpp.i
@@ -235,7 +235,7 @@ hintsettings.i: hintsettings.cpp.i
 
 # target to preprocess a source file
 hintsettings.cpp.i:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/hintsettings.cpp.i
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/hintsettings.cpp.i
 .PHONY : hintsettings.cpp.i
 
 hintsettings.s: hintsettings.cpp.s
@@ -244,7 +244,7 @@ hintsettings.s: hintsettings.cpp.s
 
 # target to generate assembly for a file
 hintsettings.cpp.s:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/hintsettings.cpp.s
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/hintsettings.cpp.s
 .PHONY : hintsettings.cpp.s
 
 main.o: main.cpp.o
@@ -253,7 +253,7 @@ main.o: main.cpp.o
 
 # target to build an object file
 main.cpp.o:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/main.cpp.o
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/main.cpp.o
 .PHONY : main.cpp.o
 
 main.i: main.cpp.i
@@ -262,7 +262,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/main.cpp.i
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -271,7 +271,7 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/main.cpp.s
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 matsyaplatformtheme_autogen/mocs_compilation.o: matsyaplatformtheme_autogen/mocs_compilation.cpp.o
@@ -280,7 +280,7 @@ matsyaplatformtheme_autogen/mocs_compilation.o: matsyaplatformtheme_autogen/mocs
 
 # target to build an object file
 matsyaplatformtheme_autogen/mocs_compilation.cpp.o:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/matsyaplatformtheme_autogen/mocs_compilation.cpp.o
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/matsyaplatformtheme_autogen/mocs_compilation.cpp.o
 .PHONY : matsyaplatformtheme_autogen/mocs_compilation.cpp.o
 
 matsyaplatformtheme_autogen/mocs_compilation.i: matsyaplatformtheme_autogen/mocs_compilation.cpp.i
@@ -289,7 +289,7 @@ matsyaplatformtheme_autogen/mocs_compilation.i: matsyaplatformtheme_autogen/mocs
 
 # target to preprocess a source file
 matsyaplatformtheme_autogen/mocs_compilation.cpp.i:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/matsyaplatformtheme_autogen/mocs_compilation.cpp.i
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/matsyaplatformtheme_autogen/mocs_compilation.cpp.i
 .PHONY : matsyaplatformtheme_autogen/mocs_compilation.cpp.i
 
 matsyaplatformtheme_autogen/mocs_compilation.s: matsyaplatformtheme_autogen/mocs_compilation.cpp.s
@@ -298,7 +298,7 @@ matsyaplatformtheme_autogen/mocs_compilation.s: matsyaplatformtheme_autogen/mocs
 
 # target to generate assembly for a file
 matsyaplatformtheme_autogen/mocs_compilation.cpp.s:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/matsyaplatformtheme_autogen/mocs_compilation.cpp.s
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/matsyaplatformtheme_autogen/mocs_compilation.cpp.s
 .PHONY : matsyaplatformtheme_autogen/mocs_compilation.cpp.s
 
 platformtheme.o: platformtheme.cpp.o
@@ -307,7 +307,7 @@ platformtheme.o: platformtheme.cpp.o
 
 # target to build an object file
 platformtheme.cpp.o:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/platformtheme.cpp.o
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/platformtheme.cpp.o
 .PHONY : platformtheme.cpp.o
 
 platformtheme.i: platformtheme.cpp.i
@@ -316,7 +316,7 @@ platformtheme.i: platformtheme.cpp.i
 
 # target to preprocess a source file
 platformtheme.cpp.i:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/platformtheme.cpp.i
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/platformtheme.cpp.i
 .PHONY : platformtheme.cpp.i
 
 platformtheme.s: platformtheme.cpp.s
@@ -325,7 +325,7 @@ platformtheme.s: platformtheme.cpp.s
 
 # target to generate assembly for a file
 platformtheme.cpp.s:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/platformtheme.cpp.s
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/platformtheme.cpp.s
 .PHONY : platformtheme.cpp.s
 
 qdbusmenubar.o: qdbusmenubar.cpp.o
@@ -334,7 +334,7 @@ qdbusmenubar.o: qdbusmenubar.cpp.o
 
 # target to build an object file
 qdbusmenubar.cpp.o:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/qdbusmenubar.cpp.o
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/qdbusmenubar.cpp.o
 .PHONY : qdbusmenubar.cpp.o
 
 qdbusmenubar.i: qdbusmenubar.cpp.i
@@ -343,7 +343,7 @@ qdbusmenubar.i: qdbusmenubar.cpp.i
 
 # target to preprocess a source file
 qdbusmenubar.cpp.i:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/qdbusmenubar.cpp.i
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/qdbusmenubar.cpp.i
 .PHONY : qdbusmenubar.cpp.i
 
 qdbusmenubar.s: qdbusmenubar.cpp.s
@@ -352,7 +352,7 @@ qdbusmenubar.s: qdbusmenubar.cpp.s
 
 # target to generate assembly for a file
 qdbusmenubar.cpp.s:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/qdbusmenubar.cpp.s
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/qdbusmenubar.cpp.s
 .PHONY : qdbusmenubar.cpp.s
 
 statusnotifier/dbustypes.o: statusnotifier/dbustypes.cpp.o
@@ -361,7 +361,7 @@ statusnotifier/dbustypes.o: statusnotifier/dbustypes.cpp.o
 
 # target to build an object file
 statusnotifier/dbustypes.cpp.o:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/statusnotifier/dbustypes.cpp.o
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/statusnotifier/dbustypes.cpp.o
 .PHONY : statusnotifier/dbustypes.cpp.o
 
 statusnotifier/dbustypes.i: statusnotifier/dbustypes.cpp.i
@@ -370,7 +370,7 @@ statusnotifier/dbustypes.i: statusnotifier/dbustypes.cpp.i
 
 # target to preprocess a source file
 statusnotifier/dbustypes.cpp.i:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/statusnotifier/dbustypes.cpp.i
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/statusnotifier/dbustypes.cpp.i
 .PHONY : statusnotifier/dbustypes.cpp.i
 
 statusnotifier/dbustypes.s: statusnotifier/dbustypes.cpp.s
@@ -379,7 +379,7 @@ statusnotifier/dbustypes.s: statusnotifier/dbustypes.cpp.s
 
 # target to generate assembly for a file
 statusnotifier/dbustypes.cpp.s:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/statusnotifier/dbustypes.cpp.s
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/statusnotifier/dbustypes.cpp.s
 .PHONY : statusnotifier/dbustypes.cpp.s
 
 statusnotifier/statusnotifieritem.o: statusnotifier/statusnotifieritem.cpp.o
@@ -388,7 +388,7 @@ statusnotifier/statusnotifieritem.o: statusnotifier/statusnotifieritem.cpp.o
 
 # target to build an object file
 statusnotifier/statusnotifieritem.cpp.o:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/statusnotifier/statusnotifieritem.cpp.o
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/statusnotifier/statusnotifieritem.cpp.o
 .PHONY : statusnotifier/statusnotifieritem.cpp.o
 
 statusnotifier/statusnotifieritem.i: statusnotifier/statusnotifieritem.cpp.i
@@ -397,7 +397,7 @@ statusnotifier/statusnotifieritem.i: statusnotifier/statusnotifieritem.cpp.i
 
 # target to preprocess a source file
 statusnotifier/statusnotifieritem.cpp.i:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/statusnotifier/statusnotifieritem.cpp.i
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/statusnotifier/statusnotifieritem.cpp.i
 .PHONY : statusnotifier/statusnotifieritem.cpp.i
 
 statusnotifier/statusnotifieritem.s: statusnotifier/statusnotifieritem.cpp.s
@@ -406,7 +406,7 @@ statusnotifier/statusnotifieritem.s: statusnotifier/statusnotifieritem.cpp.s
 
 # target to generate assembly for a file
 statusnotifier/statusnotifieritem.cpp.s:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/statusnotifier/statusnotifieritem.cpp.s
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/statusnotifier/statusnotifieritem.cpp.s
 .PHONY : statusnotifier/statusnotifieritem.cpp.s
 
 statusnotifieritemadaptor.o: statusnotifieritemadaptor.cpp.o
@@ -415,7 +415,7 @@ statusnotifieritemadaptor.o: statusnotifieritemadaptor.cpp.o
 
 # target to build an object file
 statusnotifieritemadaptor.cpp.o:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/statusnotifieritemadaptor.cpp.o
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/statusnotifieritemadaptor.cpp.o
 .PHONY : statusnotifieritemadaptor.cpp.o
 
 statusnotifieritemadaptor.i: statusnotifieritemadaptor.cpp.i
@@ -424,7 +424,7 @@ statusnotifieritemadaptor.i: statusnotifieritemadaptor.cpp.i
 
 # target to preprocess a source file
 statusnotifieritemadaptor.cpp.i:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/statusnotifieritemadaptor.cpp.i
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/statusnotifieritemadaptor.cpp.i
 .PHONY : statusnotifieritemadaptor.cpp.i
 
 statusnotifieritemadaptor.s: statusnotifieritemadaptor.cpp.s
@@ -433,7 +433,7 @@ statusnotifieritemadaptor.s: statusnotifieritemadaptor.cpp.s
 
 # target to generate assembly for a file
 statusnotifieritemadaptor.cpp.s:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/statusnotifieritemadaptor.cpp.s
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/statusnotifieritemadaptor.cpp.s
 .PHONY : statusnotifieritemadaptor.cpp.s
 
 statusnotifierwatcher_interface.o: statusnotifierwatcher_interface.cpp.o
@@ -442,7 +442,7 @@ statusnotifierwatcher_interface.o: statusnotifierwatcher_interface.cpp.o
 
 # target to build an object file
 statusnotifierwatcher_interface.cpp.o:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/statusnotifierwatcher_interface.cpp.o
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/statusnotifierwatcher_interface.cpp.o
 .PHONY : statusnotifierwatcher_interface.cpp.o
 
 statusnotifierwatcher_interface.i: statusnotifierwatcher_interface.cpp.i
@@ -451,7 +451,7 @@ statusnotifierwatcher_interface.i: statusnotifierwatcher_interface.cpp.i
 
 # target to preprocess a source file
 statusnotifierwatcher_interface.cpp.i:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/statusnotifierwatcher_interface.cpp.i
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/statusnotifierwatcher_interface.cpp.i
 .PHONY : statusnotifierwatcher_interface.cpp.i
 
 statusnotifierwatcher_interface.s: statusnotifierwatcher_interface.cpp.s
@@ -460,7 +460,7 @@ statusnotifierwatcher_interface.s: statusnotifierwatcher_interface.cpp.s
 
 # target to generate assembly for a file
 statusnotifierwatcher_interface.cpp.s:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/statusnotifierwatcher_interface.cpp.s
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/statusnotifierwatcher_interface.cpp.s
 .PHONY : statusnotifierwatcher_interface.cpp.s
 
 systemtrayicon.o: systemtrayicon.cpp.o
@@ -469,7 +469,7 @@ systemtrayicon.o: systemtrayicon.cpp.o
 
 # target to build an object file
 systemtrayicon.cpp.o:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/systemtrayicon.cpp.o
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/systemtrayicon.cpp.o
 .PHONY : systemtrayicon.cpp.o
 
 systemtrayicon.i: systemtrayicon.cpp.i
@@ -478,7 +478,7 @@ systemtrayicon.i: systemtrayicon.cpp.i
 
 # target to preprocess a source file
 systemtrayicon.cpp.i:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/systemtrayicon.cpp.i
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/systemtrayicon.cpp.i
 .PHONY : systemtrayicon.cpp.i
 
 systemtrayicon.s: systemtrayicon.cpp.s
@@ -487,7 +487,7 @@ systemtrayicon.s: systemtrayicon.cpp.s
 
 # target to generate assembly for a file
 systemtrayicon.cpp.s:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/systemtrayicon.cpp.s
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/systemtrayicon.cpp.s
 .PHONY : systemtrayicon.cpp.s
 
 x11integration.o: x11integration.cpp.o
@@ -496,7 +496,7 @@ x11integration.o: x11integration.cpp.o
 
 # target to build an object file
 x11integration.cpp.o:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/x11integration.cpp.o
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/x11integration.cpp.o
 .PHONY : x11integration.cpp.o
 
 x11integration.i: x11integration.cpp.i
@@ -505,7 +505,7 @@ x11integration.i: x11integration.cpp.i
 
 # target to preprocess a source file
 x11integration.cpp.i:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/x11integration.cpp.i
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/x11integration.cpp.i
 .PHONY : x11integration.cpp.i
 
 x11integration.s: x11integration.cpp.s
@@ -514,7 +514,7 @@ x11integration.s: x11integration.cpp.s
 
 # target to generate assembly for a file
 x11integration.cpp.s:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/x11integration.cpp.s
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(MAKE) $(MAKESILENT) -f platformtheme/CMakeFiles/matsyaplatformtheme.dir/build.make platformtheme/CMakeFiles/matsyaplatformtheme.dir/x11integration.cpp.s
 .PHONY : x11integration.cpp.s
 
 # Help Target
@@ -576,6 +576,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/tokyo/clone/cuteclone/qt-plugins/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /home/tokyo/Documents/GitHub/qt-plugins/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

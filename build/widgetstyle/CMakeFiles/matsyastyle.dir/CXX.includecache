@@ -6,31 +6,31 @@
 
 #IncludeRegexTransform: 
 
-/home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle/matsyastyle_autogen/EWIEGA46WW/moc_basestyle.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle/matsyastyle_autogen/EWIEGA46WW/moc_basestyle.cpp
 memory
 -
 ../../../../widgetstyle/basestyle.h
-/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/basestyle.h
+/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/basestyle.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle/matsyastyle_autogen/EWIEGA46WW/moc_blurhelper.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle/matsyastyle_autogen/EWIEGA46WW/moc_blurhelper.cpp
 memory
 -
 ../../../../widgetstyle/blurhelper.h
-/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/blurhelper.h
+/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/blurhelper.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle/matsyastyle_autogen/EWIEGA46WW/moc_pstyleplugin.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle/matsyastyle_autogen/EWIEGA46WW/moc_pstyleplugin.cpp
 memory
 -
 ../../../../widgetstyle/pstyleplugin.h
-/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/pstyleplugin.h
+/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/pstyleplugin.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
@@ -38,35 +38,35 @@ QtCore/qmetatype.h
 QtCore/qplugin.h
 -
 
-/home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle/matsyastyle_autogen/EWIEGA46WW/moc_shadowhelper.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle/matsyastyle_autogen/EWIEGA46WW/moc_shadowhelper.cpp
 memory
 -
 ../../../../widgetstyle/shadowhelper.h
-/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/shadowhelper.h
+/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/shadowhelper.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle/matsyastyle_autogen/mocs_compilation.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle/matsyastyle_autogen/mocs_compilation.cpp
 EWIEGA46WW/moc_basestyle.cpp
-/home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle/matsyastyle_autogen/EWIEGA46WW/moc_basestyle.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle/matsyastyle_autogen/EWIEGA46WW/moc_basestyle.cpp
 EWIEGA46WW/moc_blurhelper.cpp
-/home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle/matsyastyle_autogen/EWIEGA46WW/moc_blurhelper.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle/matsyastyle_autogen/EWIEGA46WW/moc_blurhelper.cpp
 EWIEGA46WW/moc_pstyleplugin.cpp
-/home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle/matsyastyle_autogen/EWIEGA46WW/moc_pstyleplugin.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle/matsyastyle_autogen/EWIEGA46WW/moc_pstyleplugin.cpp
 EWIEGA46WW/moc_shadowhelper.cpp
-/home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle/matsyastyle_autogen/EWIEGA46WW/moc_shadowhelper.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle/matsyastyle_autogen/EWIEGA46WW/moc_shadowhelper.cpp
 
-/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/basestyle.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/basestyle.cpp
 basestyle.h
-/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/basestyle.h
+/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/basestyle.h
 phantomcolor.h
-/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/phantomcolor.h
+/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/phantomcolor.h
 shadowhelper.h
-/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/shadowhelper.h
+/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/shadowhelper.h
 blurhelper.h
-/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/blurhelper.h
+/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/blurhelper.h
 QAbstractItemView
 -
 QApplication
@@ -132,13 +132,13 @@ QSettings
 cmath
 -
 
-/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/basestyle.h
+/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/basestyle.h
 QCommonStyle
 -
 
-/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/blurhelper.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/blurhelper.cpp
 blurhelper.h
-/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/blurhelper.h
+/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/blurhelper.h
 KWindowEffects
 -
 QWidget
@@ -164,19 +164,19 @@ xcb/shape.h
 xcb/xcb_icccm.h
 -
 
-/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/blurhelper.h
+/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/blurhelper.h
 QObject
 -
 
-/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/boxshadowrenderer.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/boxshadowrenderer.cpp
 boxshadowrenderer.h
-/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/boxshadowrenderer.h
+/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/boxshadowrenderer.h
 QPainter
 -
 QtMath
 -
 
-/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/boxshadowrenderer.h
+/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/boxshadowrenderer.h
 QColor
 -
 QImage
@@ -186,23 +186,23 @@ QPoint
 QSize
 -
 
-/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/phantomcolor.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/phantomcolor.cpp
 phantomcolor.h
-/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/phantomcolor.h
+/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/phantomcolor.h
 cfloat
 -
 cmath
 -
 
-/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/phantomcolor.h
+/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/phantomcolor.h
 QColor
 -
 
-/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/pstyleplugin.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/pstyleplugin.cpp
 pstyleplugin.h
-/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/pstyleplugin.h
+/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/pstyleplugin.h
 basestyle.h
-/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/basestyle.h
+/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/basestyle.h
 QApplication
 -
 QStyleFactory
@@ -210,15 +210,15 @@ QStyleFactory
 QDebug
 -
 
-/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/pstyleplugin.h
+/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/pstyleplugin.h
 QStylePlugin
 -
 
-/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/shadowhelper.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/shadowhelper.cpp
 shadowhelper.h
-/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/shadowhelper.h
+/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/shadowhelper.h
 boxshadowrenderer.h
-/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/boxshadowrenderer.h
+/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/boxshadowrenderer.h
 QDockWidget
 -
 QEvent
@@ -240,9 +240,9 @@ QTextStream
 KWindowSystem
 -
 
-/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/shadowhelper.h
+/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/shadowhelper.h
 tileset.h
-/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/tileset.h
+/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/tileset.h
 KWindowShadow
 -
 QObject
@@ -256,13 +256,13 @@ QMargins
 QSet
 -
 
-/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/tileset.cpp
+/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/tileset.cpp
 tileset.h
-/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/tileset.h
+/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/tileset.h
 QPainter
 -
 
-/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/tileset.h
+/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/tileset.h
 QPixmap
 -
 QRect

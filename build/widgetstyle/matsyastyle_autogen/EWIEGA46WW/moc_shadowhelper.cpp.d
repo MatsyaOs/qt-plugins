@@ -1,6 +1,6 @@
-/home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle/matsyastyle_autogen/EWIEGA46WW/moc_shadowhelper.cpp: /home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/shadowhelper.h \
-  /home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle/matsyastyle_autogen/moc_predefs.h \
-  /home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/tileset.h \
+/home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle/matsyastyle_autogen/EWIEGA46WW/moc_shadowhelper.cpp: /home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/shadowhelper.h \
+  /home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle/matsyastyle_autogen/moc_predefs.h \
+  /home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/tileset.h \
   /usr/include/KF5/KWindowSystem/KWindowShadow \
   /usr/include/KF5/KWindowSystem/kwindowshadow.h \
   /usr/include/KF5/KWindowSystem/kwindowsystem_export.h \

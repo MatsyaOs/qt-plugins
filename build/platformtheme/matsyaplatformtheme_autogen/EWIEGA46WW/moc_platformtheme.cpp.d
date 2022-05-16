@@ -1,9 +1,9 @@
-/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/EWIEGA46WW/moc_platformtheme.cpp: /home/tokyo/clone/cuteclone/qt-plugins/platformtheme/platformtheme.h \
-  /home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/moc_predefs.h \
-  /home/tokyo/clone/cuteclone/qt-plugins/platformtheme/hintsettings.h \
-  /home/tokyo/clone/cuteclone/qt-plugins/platformtheme/statusnotifier/dbustypes.h \
-  /home/tokyo/clone/cuteclone/qt-plugins/platformtheme/statusnotifier/statusnotifieritem.h \
-  /home/tokyo/clone/cuteclone/qt-plugins/platformtheme/systemtrayicon.h \
+/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/EWIEGA46WW/moc_platformtheme.cpp: /home/tokyo/Documents/GitHub/qt-plugins/platformtheme/platformtheme.h \
+  /home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/moc_predefs.h \
+  /home/tokyo/Documents/GitHub/qt-plugins/platformtheme/hintsettings.h \
+  /home/tokyo/Documents/GitHub/qt-plugins/platformtheme/statusnotifier/dbustypes.h \
+  /home/tokyo/Documents/GitHub/qt-plugins/platformtheme/statusnotifier/statusnotifieritem.h \
+  /home/tokyo/Documents/GitHub/qt-plugins/platformtheme/systemtrayicon.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/c++/10/algorithm \

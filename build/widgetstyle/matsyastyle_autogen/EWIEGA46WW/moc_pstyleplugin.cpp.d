@@ -1,6 +1,6 @@
-/home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle/matsyastyle_autogen/EWIEGA46WW/moc_pstyleplugin.cpp: /home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/pstyleplugin.h \
-  /home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle/matsyastyle_autogen/moc_predefs.h \
-  /home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/matsyastyle.json \
+/home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle/matsyastyle_autogen/EWIEGA46WW/moc_pstyleplugin.cpp: /home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/pstyleplugin.h \
+  /home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle/matsyastyle_autogen/moc_predefs.h \
+  /home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/matsyastyle.json \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/c++/10/algorithm \

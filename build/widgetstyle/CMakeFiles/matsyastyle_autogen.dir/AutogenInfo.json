@@ -1,12 +1,12 @@
 {
-	"BUILD_DIR" : "/home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle/matsyastyle_autogen",
-	"CMAKE_BINARY_DIR" : "/home/tokyo/clone/cuteclone/qt-plugins/build",
-	"CMAKE_CURRENT_BINARY_DIR" : "/home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle",
-	"CMAKE_CURRENT_SOURCE_DIR" : "/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle",
+	"BUILD_DIR" : "/home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle/matsyastyle_autogen",
+	"CMAKE_BINARY_DIR" : "/home/tokyo/Documents/GitHub/qt-plugins/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle",
 	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
 	"CMAKE_LIST_FILES" : 
 	[
-		"/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/CMakeLists.txt",
+		"/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/CMakeLists.txt",
 		"/usr/share/ECM/cmake/ECMConfigVersion.cmake",
 		"/usr/share/ECM/cmake/ECMConfig.cmake",
 		"/usr/share/ECM/modules/ECMUseFindModules.cmake",
@@ -84,50 +84,50 @@
 		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
 		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfig.cmake"
 	],
-	"CMAKE_SOURCE_DIR" : "/home/tokyo/clone/cuteclone/qt-plugins",
+	"CMAKE_SOURCE_DIR" : "/home/tokyo/Documents/GitHub/qt-plugins",
 	"DEP_FILE" : "",
 	"DEP_FILE_RULE_NAME" : "",
 	"HEADERS" : 
 	[
 		[
-			"/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/basestyle.h",
+			"/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/basestyle.h",
 			"Mu",
 			"EWIEGA46WW/moc_basestyle.cpp"
 		],
 		[
-			"/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/blurhelper.h",
+			"/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/blurhelper.h",
 			"Mu",
 			"EWIEGA46WW/moc_blurhelper.cpp"
 		],
 		[
-			"/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/boxshadowrenderer.h",
+			"/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/boxshadowrenderer.h",
 			"Mu",
 			"EWIEGA46WW/moc_boxshadowrenderer.cpp"
 		],
 		[
-			"/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/phantomcolor.h",
+			"/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/phantomcolor.h",
 			"Mu",
 			"EWIEGA46WW/moc_phantomcolor.cpp"
 		],
 		[
-			"/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/pstyleplugin.h",
+			"/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/pstyleplugin.h",
 			"Mu",
 			"EWIEGA46WW/moc_pstyleplugin.cpp"
 		],
 		[
-			"/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/shadowhelper.h",
+			"/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/shadowhelper.h",
 			"Mu",
 			"EWIEGA46WW/moc_shadowhelper.cpp"
 		],
 		[
-			"/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/tileset.h",
+			"/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/tileset.h",
 			"Mu",
 			"EWIEGA46WW/moc_tileset.cpp"
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "/home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle/matsyastyle_autogen/include",
-	"MOC_COMPILATION_FILE" : "/home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle/matsyastyle_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "/home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle/matsyastyle_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle/matsyastyle_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : 
 	[
 		"QT_CORE_LIB",
@@ -147,8 +147,8 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"/home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle",
-		"/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle",
+		"/home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle",
+		"/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle",
 		"/usr/include/x86_64-linux-gnu/qt5/QtGui/5.15.2",
 		"/usr/include/x86_64-linux-gnu/qt5/QtGui/5.15.2/QtGui",
 		"/usr/include/x86_64-linux-gnu/qt5",
@@ -181,45 +181,45 @@
 		"-c",
 		"/usr/share/cmake-3.18/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "/home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle/matsyastyle_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "/home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle/matsyastyle_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 2,
-	"PARSE_CACHE_FILE" : "/home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle/CMakeFiles/matsyastyle_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "/home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle/CMakeFiles/matsyastyle_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
 	"QT_UIC_EXECUTABLE" : "",
 	"QT_VERSION_MAJOR" : 5,
 	"QT_VERSION_MINOR" : 15,
-	"SETTINGS_FILE" : "/home/tokyo/clone/cuteclone/qt-plugins/build/widgetstyle/CMakeFiles/matsyastyle_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "/home/tokyo/Documents/GitHub/qt-plugins/build/widgetstyle/CMakeFiles/matsyastyle_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
 		[
-			"/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/basestyle.cpp",
+			"/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/basestyle.cpp",
 			"Mu"
 		],
 		[
-			"/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/blurhelper.cpp",
+			"/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/blurhelper.cpp",
 			"Mu"
 		],
 		[
-			"/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/boxshadowrenderer.cpp",
+			"/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/boxshadowrenderer.cpp",
 			"Mu"
 		],
 		[
-			"/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/phantomcolor.cpp",
+			"/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/phantomcolor.cpp",
 			"Mu"
 		],
 		[
-			"/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/pstyleplugin.cpp",
+			"/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/pstyleplugin.cpp",
 			"Mu"
 		],
 		[
-			"/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/shadowhelper.cpp",
+			"/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/shadowhelper.cpp",
 			"Mu"
 		],
 		[
-			"/home/tokyo/clone/cuteclone/qt-plugins/widgetstyle/tileset.cpp",
+			"/home/tokyo/Documents/GitHub/qt-plugins/widgetstyle/tileset.cpp",
 			"Mu"
 		]
 	],

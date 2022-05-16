@@ -1,7 +1,7 @@
-/home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/EWIEGA46WW/moc_systemtrayicon.cpp: /home/tokyo/clone/cuteclone/qt-plugins/platformtheme/systemtrayicon.h \
-  /home/tokyo/clone/cuteclone/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/moc_predefs.h \
-  /home/tokyo/clone/cuteclone/qt-plugins/platformtheme/statusnotifier/dbustypes.h \
-  /home/tokyo/clone/cuteclone/qt-plugins/platformtheme/statusnotifier/statusnotifieritem.h \
+/home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/EWIEGA46WW/moc_systemtrayicon.cpp: /home/tokyo/Documents/GitHub/qt-plugins/platformtheme/systemtrayicon.h \
+  /home/tokyo/Documents/GitHub/qt-plugins/build/platformtheme/matsyaplatformtheme_autogen/moc_predefs.h \
+  /home/tokyo/Documents/GitHub/qt-plugins/platformtheme/statusnotifier/dbustypes.h \
+  /home/tokyo/Documents/GitHub/qt-plugins/platformtheme/statusnotifier/statusnotifieritem.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/c++/10/algorithm \
