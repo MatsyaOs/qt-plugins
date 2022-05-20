@@ -50,7 +50,7 @@ void onDarkModeChanged()
         return;
     }
 
-    QStyle *style = QStyleFactory::create("matsya");
+    QStyle *style = QStyleFactory::create("WhiteSur");
     if (style) {
         qApp->setStyle(style);
     }
@@ -212,5 +212,5 @@ void PlatformTheme::setQtQuickControlsTheme()
         return;
     }
 
-    QQuickStyle::setStyle(QLatin1String("matsya-style"));
+    QQuickStyle::setStyle(QLatin1String("WhiteSur"));
 }

@@ -1,2 +1,0 @@
-/usr/lib/x86_64-linux-gnu/qt5/plugins/platformthemes/libmatsyaplatformtheme.so
-/usr/lib/x86_64-linux-gnu/qt5/plugins/styles/libmatsyastyle.so
